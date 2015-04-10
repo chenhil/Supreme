@@ -1,0 +1,15 @@
+C:\Users\Hillman\documents\visual studio 2012\Projects\Supreme\Supreme\bin\Release\Supreme.exe.config
+C:\Users\Hillman\documents\visual studio 2012\Projects\Supreme\Supreme\bin\Release\Supreme.exe.manifest
+C:\Users\Hillman\documents\visual studio 2012\Projects\Supreme\Supreme\bin\Release\Supreme.application
+C:\Users\Hillman\documents\visual studio 2012\Projects\Supreme\Supreme\bin\Release\Supreme.exe
+C:\Users\Hillman\documents\visual studio 2012\Projects\Supreme\Supreme\bin\Release\Supreme.pdb
+C:\Users\Hillman\documents\visual studio 2012\Projects\Supreme\Supreme\bin\Release\HtmlAgilityPack.dll
+C:\Users\Hillman\documents\visual studio 2012\Projects\Supreme\Supreme\bin\Release\HtmlAgilityPack.pdb
+C:\Users\Hillman\documents\visual studio 2012\Projects\Supreme\Supreme\bin\Release\HtmlAgilityPack.xml
+C:\Users\Hillman\documents\visual studio 2012\Projects\Supreme\Supreme\obj\Release\Supreme.Form1.resources
+C:\Users\Hillman\documents\visual studio 2012\Projects\Supreme\Supreme\obj\Release\Supreme.Properties.Resources.resources
+C:\Users\Hillman\documents\visual studio 2012\Projects\Supreme\Supreme\obj\Release\Supreme.csproj.GenerateResource.Cache
+C:\Users\Hillman\documents\visual studio 2012\Projects\Supreme\Supreme\obj\Release\Supreme.exe.manifest
+C:\Users\Hillman\documents\visual studio 2012\Projects\Supreme\Supreme\obj\Release\Supreme.application
+C:\Users\Hillman\documents\visual studio 2012\Projects\Supreme\Supreme\obj\Release\Supreme.exe
+C:\Users\Hillman\documents\visual studio 2012\Projects\Supreme\Supreme\obj\Release\Supreme.pdb

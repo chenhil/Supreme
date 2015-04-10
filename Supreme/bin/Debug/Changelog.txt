@@ -1,0 +1,9 @@
+4/7/2015
+-Added early link support
+-Fixed Status log from overflowing and ultimately crashing program
+-Got rid of alot of uneccessary variables 
+
+4/8/2015
+-Added cancel button support for early link
+-Changed up status log append message
+-Disabled keywordbox and color textbox when start is clicked
